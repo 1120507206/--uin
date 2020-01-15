@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App'
 import './static/111/font/iconfont.css'
-import Json from './Json'
+// import Json from './Json'
 
 Vue.config.productionTip = false
 

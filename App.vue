@@ -13,5 +13,8 @@
 </script>
 
 <style>
-	/*每个页面公共css */
+	.uni-page-head .uni-page-head__title{
+		text-align: left;
+		margin-left: -60px;
+	}/*每个页面公共css */
 </style>
