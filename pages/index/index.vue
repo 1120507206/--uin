@@ -32,7 +32,7 @@
 				 <text class="test">&#xe640;</text>
 				 <text class="page-size">超值低价</text>
 				 <text class="test">&#xe624;</text>
-				 <text class="page-size">售后无忧</text>
+				 <text class="page-size">售后无忧.</text>
 				 </view>
             </view>
 			
